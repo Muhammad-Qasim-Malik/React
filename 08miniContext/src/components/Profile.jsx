@@ -8,5 +8,5 @@ export default function Profile() {
     }}>Please Login</div>;
     return <div style={{
         marginTop: '20px'
-    }}>Welcome {user.username}</div>;
+    }}>Welcome {user.username} and your password is({user.username})</div>;
 }
