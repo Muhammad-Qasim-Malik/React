@@ -4,6 +4,10 @@ const initialState = {
     todos: [{
         id: 1,
         text: "Hello Qasim"
+    },
+    {
+        id: 2,
+        text: "Hello Noman"
     }]
 }
 
